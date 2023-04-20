@@ -1,0 +1,38 @@
+.movies__wrapper {
+  overflow: hidden;
+  height: auto;
+}
+
+.movies__wrapper .movies__row__wrapper {
+  overflow: hidden;
+  height: auto;
+  margin-bottom: 0;
+}
+
+.movies__wrapper .movies__row__wrapper .movies__col__wrapper {
+  padding: 2em 5em;
+  min-height: auto;
+  justify-content: center;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+
+.movies__wrapper .movies__row__wrapper .movies__col__wrapper .card__check {
+  text-align: center;
+  overflow: hidden;
+  font-weight: 500;
+  width: max-content !important;
+  border-radius: 10px;
+}
+
+.movies__wrapper .movies__row__wrapper .movies__col__wrapper .card__check div {
+  overflow: hidden;
+}
+
+@media screen and (max-width: 476px) {
+  .movies__wrapper .movies__row__wrapper .movies__col__wrapper {
+    padding: 2em 2em;
+  }
+}
