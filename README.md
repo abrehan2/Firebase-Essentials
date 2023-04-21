@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://iili.io/Hvtm0fR.png" height="350"/>
+<img src="https://iili.io/Hvtm0fR.png"/>
 </div>
 
 # firebase-essentials
