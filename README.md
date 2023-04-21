@@ -30,5 +30,19 @@
 <b>`Front-end: cd client --> npm install`</b> <br><br>
 <b>`• The project won't function correctly unless you use your own configurations`</b>
 
+# Environment Variables
+<b>Please make sure to create a `.env` file in the `config` directory at the front-end and incorporate the following variables:</b>
+<ol>
+<b>
+<li>API_KEY</li>
+<li>AUTH_DOMAIN</li>
+<li>PROJECT_ID</li>
+<li>STORAGE_BUCKET</li>
+<li>MESSAGE_SENDER_ID</li>
+<li>APP_ID</li>
+<li>MEASURE_ID</li>
+</b>
+</ol>
+
 # Author
 <b>Abdul Rehan Najam - You guys can contact me through LinkedIn in case of any queries [click here](https://in.linkedin.com/in/abrehan)</b>
